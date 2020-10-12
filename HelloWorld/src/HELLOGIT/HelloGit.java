@@ -1,5 +1,6 @@
 package HELLOGIT;
 
 public class HelloGit {
-System.out.println("Hello Git bro");
+	public static void main(String args[]) {
+System.out.println("Hello Git bro");}
 }
